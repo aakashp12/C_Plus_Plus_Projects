@@ -1,0 +1,6 @@
+fullTree.pruneSize(0) = 65494
+fullTree.pruneSize(100) = 57253
+fullTree.pruneSize(1000) = 1
+fullTree.pruneSize(100000) = 1
+Rotate
+File made:

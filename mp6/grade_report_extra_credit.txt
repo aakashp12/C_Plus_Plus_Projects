@@ -1,0 +1,41 @@
+Grading r48472 by apate295 committed on Tue Nov  8 22:12:06 CST 2016
+Monad Autograder
+Testing mp6.1 at 2016-11-09 00:11:59
+
+"Now let me erase this before you all copy it down." ~ Alexey Stepanov
+
+Setting up test environment...
+Compiling...
+================================================================
+
+
+Running tests...
+================================================================
+testSmallerDimVal . . . . . [4 pts] - passed
+testShouldReplace . . . . . [4 pts] - passed
+testLinearCtor_1_10 . . . . [6 pts] - passed
+testLinearCtor_3_31 . . . . [6 pts] - passed
+testLinearCtor_2_14 . . . . [6 pts] - passed
+testLinearNNS_1_10  . . . . [6 pts] - passed
+testLinearNNS_3_31  . . . . [6 pts] - passed
+testLinearNNS_2_14  . . . . [6 pts] - passed
+testDeceptiveNNOneLevelCtor [4 pts] - passed
+testDeceptiveNNOneLevelNNS  [4 pts] - passed
+testMinesCtor . . . . . . . [4 pts] - passed
+testMinesNNS  . . . . . . . [4 pts] - passed
+testDeceptiveMinesCtor  . . [4 pts] - passed
+testDeceptiveMinesNNS . . . [4 pts] - FAILED
+testTieBreakingCtor . . . . [4 pts] - passed
+testTieBreakingNNS  . . . . [4 pts] - FAILED
+testLeftRecurseCtor . . . . [4 pts] - passed
+testLeftRecurseNNS  . . . . [4 pts] - FAILED
+testRandom1Ctor . . . . . . [4 pts] - passed
+testRandom1NNS  . . . . . . [4 pts] - FAILED
+testRandom2Ctor . . . . . . [4 pts] - passed
+testRandom2NNS  . . . . . . [4 pts] - FAILED
+
+
+Total score...
+================================================================
+TOTAL SCORE: 80
+

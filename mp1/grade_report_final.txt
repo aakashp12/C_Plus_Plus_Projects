@@ -1,0 +1,8 @@
+Grading r4245 by apate295 committed on Mon Aug 29 19:57:34 CDT 2016
+Monad Autograder
+Testing mp1 at 2016-09-01 00:47:24
+
+"If you don't hand in the next homework, you might miss some points." ~ Prof. Jiawei Han
+
+Setting up test environment...
+Error: /dev/shm/cs225student/autograder/temp/mp1/Makefile does not exist.

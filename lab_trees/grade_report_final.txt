@@ -1,0 +1,23 @@
+Grading r28615 by apate295 committed on Fri Oct  7 20:05:41 CDT 2016
+Monad Autograder
+Testing lab_trees at 2016-10-10 00:12:29
+
+"Computers are like Old Testament gods; lots of rules and no mercy." ~ Joseph Campbell
+
+Setting up test environment...
+Compiling...
+================================================================
+
+
+Running tests...
+================================================================
+test_isOrdered  . [33 pts] - passed
+test_mirror . . . [33 pts] - passed
+test_printPaths . [34 pts] - passed
+test_sumDistances [25 pts] - passed
+
+
+Total score...
+================================================================
+TOTAL SCORE: 125
+

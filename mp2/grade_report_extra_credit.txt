@@ -1,0 +1,26 @@
+Grading r7609 by apate295 committed on Mon Sep  5 12:03:41 CDT 2016
+Monad Autograder
+Testing mp2.1 at 2016-09-07 01:05:54
+
+"There's an old story about the person who wished his computer were as easy to use as his telephone. That wish has come true, since I no longer know how to use my telephone." ~ Bjarne Stroustrup
+
+Setting up test environment...
+Compiling...
+================================================================
+
+
+Running tests...
+================================================================
+InvertColorsEven  . . [30 pts] - passed
+FlipLeftEven  . . . . [15 pts] - passed
+FlipLeftOdd . . . . . [15 pts] - passed
+AdjustBrightnessEven  [10 pts] - passed
+AdjustBrightnessEven2 [10 pts] - passed
+AdjustBrightnessEven3 [10 pts] - passed
+ImageMakefile . . . . [10 pts] - passed
+
+
+Total score...
+================================================================
+TOTAL SCORE: 100
+

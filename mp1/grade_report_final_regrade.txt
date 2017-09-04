@@ -1,0 +1,52 @@
+Grading r5716 by apate295 committed on Thu Sep  1 15:06:41 CDT 2016
+Monad Autograder
+Testing mp1 at 2016-09-07 00:32:57
+
+"Let me tell you the secret that has led me to my goal. My strength lies solely in my tenacity." ~ Louis Pasteur
+
+Setting up test environment...
+Compiling...
+================================================================
+
+
+Running tests...
+================================================================
+RGBAPixel_default_ctor [5 pts]  - passed
+RGBAPixel_three_ctor . [10 pts] - FAILED: unit_tests.cpp:31: Assertion (three.alpha == 255) failed
+in_01_png  . . . . . . [5 pts]  - passed
+in_02_png  . . . . . . [5 pts]  - passed
+in_03_png  . . . . . . [5 pts]  - passed
+in_04_png  . . . . . . [5 pts]  - passed
+in_05_png  . . . . . . [5 pts]  - passed
+in_06_png  . . . . . . [5 pts]  - passed
+in_07_png  . . . . . . [5 pts]  - passed
+in_08_png  . . . . . . [5 pts]  - passed
+in_09_png  . . . . . . [5 pts]  - passed
+in_10_png  . . . . . . [5 pts]  - passed
+in_11_png  . . . . . . [5 pts]  - passed
+in_12_png  . . . . . . [5 pts]  - passed
+in_13_png  . . . . . . [5 pts]  - passed
+Makefile . . . . . . . [20 pts] - passed
+
+
+Total score...
+================================================================
+TOTAL SCORE: 90
+
+
+
+Detailed test output...
+================================================================
+----------------------------------------------------------------
+RGBAPixel_three_ctor [10 points]
+Result: FAILED: unit_tests.cpp:31: Assertion (three.alpha == 255) failed
+Took 0ms (1000ms timeout)
+Output:
+----------------------------------------------------------------
+
+
+----------------------------------------------------------------
+Total score...
+================================================================
+TOTAL SCORE: 90
+

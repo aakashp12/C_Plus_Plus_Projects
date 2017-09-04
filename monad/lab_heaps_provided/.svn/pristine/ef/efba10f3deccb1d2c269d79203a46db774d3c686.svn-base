@@ -1,0 +1,22 @@
+[Required Files]
+heap.h
+heap.cpp
+
+[Testing Files]
+Makefile
+unit_tests.cpp
+printheap.cpp
+nope.h
+soln_buildHeap1.out
+soln_buildHeap1.out2
+soln_buildHeap2.out
+soln_buildHeap2.out2
+soln_buildHeap3.out
+soln_buildHeap3.out2
+soln_buildHeap4.out
+soln_buildHeap4.out2
+soln_buildHeap5.out
+soln_buildHeap5.out2
+
+[Libraries]
+printtree

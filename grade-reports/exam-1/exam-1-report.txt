@@ -1,0 +1,25 @@
+Exam report for Aakash Patel
+============================
+
+Scores
+------
+
+  Problem                      Points
+  ----------------------- -----------
+  constructors-2a            4.000000
+  constructors-3b            4.000000
+  km-arrays-1d               4.000000
+  km-firstclass-1c           0.000000
+  km-pointersintro-3b        0.000000
+  passbyvalue-1a             4.000000
+  km-declarationopts-2b      4.000000
+  km-makefile-1d             2.666667
+  rectangle                 18.000000
+
+Total score: 40.6666667/50 (81.3333333%)
+
+Code Problem Test Output
+------------------------
+
+See `tests.txt` (or `tests-1.txt` and `tests-2.txt`) for autograder test
+outputs.

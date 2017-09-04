@@ -1,0 +1,22 @@
+Grading r1557 by apate295 committed on Thu Aug 25 21:40:36 CDT 2016
+Monad Autograder
+Testing lab_intro at 2016-08-29 00:13:57
+
+"Computer Science is no more about computers than astronomy is about telescopes." ~ E. Dijkstra
+
+Setting up test environment...
+Compiling...
+================================================================
+
+
+Running tests...
+================================================================
+testBrighten  . [33 pts] - passed
+testCrosshairs  [33 pts] - passed
+testBlendImages [34 pts] - passed
+
+
+Total score...
+================================================================
+TOTAL SCORE: 100
+
